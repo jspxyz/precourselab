@@ -1,0 +1,79 @@
+
+.title{
+    color: blue;
+}
+
+.bananasize{
+    width: 75px;
+}
+
+marquee {
+    color: red;
+    position: absolute;
+    top:200px;
+    left:20px;   
+}
+
+nav {
+    background: orange;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+nav a {
+    margin: 5px;
+}
+
+.aboutus {
+    font-size: 30px;
+    text-align: center;
+    background: orange;
+}
+
+.aboutus-area {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:ghostwhite;
+    text-align: center;
+    background-image: url(https://img.atpsoftware.vn/2019/04/1-284.jpg);
+    background-size: 1000px;
+}
+
+.aboutus-2nd{
+    font-size: 100px;oit
+
+}
+
+.bodyimage {
+    width: 100%;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer {
+    background-color: orange;
+    color: white;
+    height: 100px;
+    padding-top: 30px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.center{
+    text-align:center;
+}
+
